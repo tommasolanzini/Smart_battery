@@ -1,7 +1,5 @@
 # Smart Battery
 
-The project was 
-
 Machine-learning-based estimation for a battery pack, designed to run **on a microcontroller**. Models are trained in Python, exported to TensorFlow Lite / C headers, and validated on real hardware with an Arduino test bench.
 
 ## Overview
@@ -68,7 +66,7 @@ jupyter notebook "training_explained (1).ipynb"
 
 ## Author
 
-**Giacomo Bellumè**
-**Riccardo Granata**
-**Daniele Fagotti**
-**Tommaso Lanzini** 
+- **Giacomo Bellumè**
+- **Riccardo Granata**
+- **Daniele Fagotti**
+- **Tommaso Lanzini** 
