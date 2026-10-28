@@ -1,0 +1,902 @@
+time_s,mode,current,voltage,temp,soc
+2.61,Nominal Mode,0.880,3.670,22.40,52.40
+2.89,Nominal Mode,0.890,3.660,22.40,52.30
+3.16,Nominal Mode,0.880,3.660,22.40,52.20
+3.44,Nominal Mode,0.890,3.650,22.40,52.20
+3.75,Nominal Mode,0.890,3.650,22.50,52.20
+4.03,Nominal Mode,0.890,3.650,22.50,52.10
+4.29,Nominal Mode,0.890,3.650,22.60,52.10
+4.57,Nominal Mode,0.890,3.640,22.60,52.10
+4.88,Nominal Mode,0.890,3.640,22.60,51.90
+5.16,Nominal Mode,0.890,3.640,22.60,51.70
+5.44,Nominal Mode,0.890,3.630,22.60,51.50
+5.70,Nominal Mode,0.890,3.630,22.60,51.30
+6.01,Nominal Mode,0.890,3.630,22.60,51.20
+6.29,Nominal Mode,0.890,3.630,22.60,51.00
+6.58,Nominal Mode,0.890,3.630,22.60,50.90
+6.83,Nominal Mode,0.890,3.630,22.60,50.80
+7.12,Nominal Mode,0.890,3.630,22.60,50.70
+7.42,Nominal Mode,0.890,3.630,22.60,50.60
+7.70,Nominal Mode,0.890,3.620,22.60,50.40
+7.97,Nominal Mode,0.890,3.620,22.60,50.20
+8.25,Nominal Mode,0.890,3.630,22.60,50.20
+8.57,Nominal Mode,0.890,3.630,22.60,50.10
+8.85,Nominal Mode,0.890,3.630,22.60,50.00
+9.11,Nominal Mode,0.890,3.630,22.60,50.00
+9.39,Nominal Mode,0.900,3.630,22.60,49.90
+9.69,Nominal Mode,0.900,3.630,22.60,49.90
+9.97,Nominal Mode,0.890,3.630,22.60,49.90
+10.25,Nominal Mode,0.900,3.630,22.60,49.90
+10.52,Nominal Mode,0.900,3.630,22.60,49.90
+10.80,Nominal Mode,0.900,3.630,22.60,49.70
+11.11,Nominal Mode,0.900,3.620,22.60,49.60
+11.39,Nominal Mode,0.900,3.620,22.60,49.50
+11.66,Nominal Mode,0.900,3.620,22.60,49.40
+11.94,Nominal Mode,0.890,3.610,22.60,49.00
+12.25,Nominal Mode,0.890,3.610,22.60,48.60
+12.55,Nominal Mode,0.890,3.610,22.60,48.30
+12.81,Nominal Mode,0.890,3.610,22.60,48.00
+13.08,Nominal Mode,0.890,3.610,22.60,47.70
+13.36,Nominal Mode,0.890,3.610,22.60,47.50
+13.66,Nominal Mode,0.890,3.610,22.60,47.20
+13.95,Nominal Mode,0.900,3.610,22.60,47.00
+14.20,Nominal Mode,0.890,3.620,22.60,46.80
+14.48,Nominal Mode,0.890,3.610,22.60,46.70
+14.79,Nominal Mode,0.890,3.610,22.60,46.50
+15.06,Nominal Mode,0.890,3.610,22.60,46.40
+15.34,Nominal Mode,0.890,3.600,22.60,46.30
+15.64,Nominal Mode,0.890,3.590,22.60,45.80
+15.92,Nominal Mode,0.890,3.590,22.60,45.40
+16.20,Nominal Mode,0.880,3.560,22.60,44.60
+16.48,Nominal Mode,0.880,3.560,22.60,43.80
+16.75,Nominal Mode,0.880,3.560,22.60,43.20
+17.06,Nominal Mode,0.890,3.590,22.50,43.00
+17.34,Nominal Mode,0.890,3.590,22.50,42.90
+17.62,Nominal Mode,0.890,3.580,22.50,42.70
+17.90,Nominal Mode,0.890,3.580,22.50,42.60
+18.16,Nominal Mode,0.880,3.570,22.50,42.50
+18.48,Nominal Mode,0.890,3.580,22.50,42.40
+18.76,Nominal Mode,0.890,3.590,22.50,42.30
+19.02,Nominal Mode,0.890,3.600,22.50,42.20
+19.30,Nominal Mode,0.890,3.600,22.50,42.50
+19.60,Nominal Mode,0.890,3.610,22.50,42.70
+19.89,Nominal Mode,0.900,3.610,22.50,42.90
+20.18,Nominal Mode,0.900,3.620,22.50,43.40
+20.43,Nominal Mode,0.900,3.620,22.50,43.80
+20.72,Nominal Mode,0.900,3.630,22.50,44.30
+21.02,Nominal Mode,0.900,3.620,22.50,44.60
+21.31,Nominal Mode,0.900,3.620,22.50,45.00
+21.56,Nominal Mode,0.900,3.620,22.50,45.30
+21.85,Nominal Mode,0.900,3.620,22.40,45.50
+22.15,Nominal Mode,0.900,3.620,22.50,45.80
+22.46,Nominal Mode,0.900,3.620,22.50,46.00
+22.70,Nominal Mode,0.900,3.620,22.50,46.20
+22.98,Nominal Mode,0.900,3.640,22.50,46.50
+23.28,Nominal Mode,0.900,3.630,22.50,46.80
+23.57,Nominal Mode,0.900,3.640,22.50,47.10
+23.85,Nominal Mode,0.900,3.630,22.40,47.30
+24.11,Nominal Mode,0.900,3.630,22.40,47.50
+24.39,Nominal Mode,0.900,3.630,22.40,47.60
+24.71,Nominal Mode,0.900,3.620,22.40,47.70
+24.98,Nominal Mode,0.900,3.620,22.40,47.70
+25.24,Nominal Mode,0.900,3.620,22.40,47.80
+25.52,Nominal Mode,0.900,3.620,22.40,47.80
+25.83,Nominal Mode,0.900,3.620,22.40,47.90
+26.10,Nominal Mode,0.900,3.620,22.40,47.90
+26.41,Nominal Mode,0.900,3.610,22.30,47.60
+26.66,Nominal Mode,0.900,3.610,22.40,47.40
+26.97,Nominal Mode,0.900,3.620,22.30,47.40
+27.25,Nominal Mode,0.900,3.620,22.40,47.40
+27.54,Nominal Mode,0.900,3.610,22.30,47.20
+27.79,Nominal Mode,0.900,3.620,22.40,47.30
+28.08,Nominal Mode,0.900,3.620,22.30,47.40
+28.40,Nominal Mode,0.900,3.610,22.40,47.20
+28.66,Nominal Mode,0.900,3.620,22.30,47.30
+28.93,Nominal Mode,0.900,3.610,22.40,47.10
+29.21,Nominal Mode,0.900,3.610,22.30,46.90
+29.51,Nominal Mode,0.900,3.620,22.30,46.70
+29.79,Nominal Mode,0.900,3.610,22.40,46.60
+30.08,Nominal Mode,0.900,3.610,22.40,46.40
+30.34,Nominal Mode,0.900,3.610,22.40,46.30
+30.65,Nominal Mode,0.900,3.610,22.40,46.20
+30.93,Nominal Mode,0.900,3.610,22.30,46.10
+31.22,Nominal Mode,0.900,3.610,22.30,46.00
+31.47,Nominal Mode,0.900,3.610,22.30,45.90
+31.76,Nominal Mode,0.900,3.610,22.30,45.80
+32.07,Nominal Mode,0.900,3.610,22.30,45.70
+32.36,Nominal Mode,0.890,3.600,22.30,45.70
+32.62,Nominal Mode,0.890,3.600,22.30,45.60
+32.89,Nominal Mode,0.890,3.600,22.40,45.50
+33.21,Nominal Mode,0.890,3.600,22.30,45.50
+33.46,Nominal Mode,0.890,3.600,22.40,45.10
+33.77,Nominal Mode,0.890,3.600,22.30,44.80
+34.02,Nominal Mode,0.890,3.600,22.40,44.50
+34.33,Nominal Mode,0.890,3.600,22.30,44.20
+34.61,Nominal Mode,0.890,3.590,22.40,43.90
+34.89,Nominal Mode,0.890,3.600,22.30,44.00
+35.15,Nominal Mode,0.900,3.600,22.40,44.10
+35.44,Nominal Mode,0.890,3.600,22.30,44.20
+35.75,Nominal Mode,0.890,3.600,22.30,43.90
+36.03,Nominal Mode,0.890,3.590,22.30,43.70
+36.30,Nominal Mode,0.890,3.590,22.30,43.50
+36.57,Nominal Mode,0.890,3.590,22.30,43.30
+36.87,Nominal Mode,0.890,3.590,22.30,43.10
+37.16,Nominal Mode,0.890,3.600,22.30,43.00
+37.44,Nominal Mode,0.890,3.590,22.30,42.80
+37.71,Nominal Mode,0.890,3.590,22.30,42.70
+37.98,Nominal Mode,0.890,3.590,22.30,42.60
+38.29,Nominal Mode,0.890,3.590,22.30,42.50
+38.57,Nominal Mode,0.890,3.590,22.30,42.40
+38.83,Nominal Mode,0.890,3.590,22.30,42.30
+39.12,Nominal Mode,0.890,3.590,22.30,42.20
+39.43,Nominal Mode,0.890,3.590,22.30,42.10
+39.72,Nominal Mode,0.890,3.590,22.30,42.10
+39.99,Nominal Mode,0.890,3.590,22.30,42.00
+40.25,Nominal Mode,0.890,3.590,22.30,42.00
+40.56,Nominal Mode,0.890,3.590,22.30,41.90
+40.84,Nominal Mode,0.890,3.590,22.30,41.90
+41.12,Nominal Mode,0.890,3.590,22.30,41.80
+41.39,Nominal Mode,0.890,3.590,22.30,41.80
+41.67,Nominal Mode,0.890,3.590,22.30,41.70
+41.97,Nominal Mode,0.890,3.590,22.30,41.70
+42.25,Nominal Mode,0.890,3.590,22.20,41.70
+42.52,Nominal Mode,0.890,3.590,22.30,41.70
+42.80,Nominal Mode,0.890,3.590,22.30,41.60
+43.11,Nominal Mode,0.890,3.590,22.30,41.60
+43.40,Nominal Mode,0.890,3.590,22.20,41.60
+43.70,Nominal Mode,0.890,3.590,22.20,41.60
+43.93,Nominal Mode,0.890,3.590,22.30,41.60
+44.25,Nominal Mode,0.890,3.590,22.30,41.60
+44.53,Nominal Mode,0.890,3.590,22.30,41.50
+44.81,Nominal Mode,0.890,3.590,22.30,41.50
+45.07,Nominal Mode,0.890,3.590,22.30,41.50
+45.35,Nominal Mode,0.890,3.590,22.30,41.50
+45.63,Nominal Mode,0.890,3.590,22.30,41.50
+45.92,Nominal Mode,0.890,3.590,22.30,41.50
+46.22,Nominal Mode,0.890,3.590,22.30,41.50
+46.50,Nominal Mode,0.890,3.590,22.30,41.50
+46.77,Nominal Mode,0.890,3.590,22.30,41.50
+47.05,Nominal Mode,0.890,3.590,22.20,41.50
+47.35,Nominal Mode,0.890,3.590,22.20,41.50
+47.62,Nominal Mode,0.890,3.590,22.20,41.50
+47.90,Nominal Mode,0.890,3.590,22.20,41.40
+48.19,Nominal Mode,0.890,3.590,22.20,41.40
+48.46,Nominal Mode,0.890,3.590,22.20,41.40
+48.75,Nominal Mode,0.890,3.590,22.30,41.40
+49.03,Nominal Mode,0.890,3.590,22.30,41.40
+49.32,Nominal Mode,0.890,3.590,22.30,41.40
+49.60,Nominal Mode,0.890,3.590,22.30,41.40
+49.88,Nominal Mode,0.890,3.590,22.30,41.40
+50.17,Nominal Mode,0.890,3.590,22.30,41.40
+50.45,Nominal Mode,0.890,3.590,22.20,41.40
+50.73,Nominal Mode,0.890,3.590,22.20,41.40
+51.04,Nominal Mode,0.890,3.590,22.20,41.40
+51.33,Nominal Mode,0.890,3.590,22.20,41.40
+51.59,Nominal Mode,0.890,3.590,22.20,41.40
+51.86,Nominal Mode,0.890,3.590,22.20,41.40
+52.17,Nominal Mode,0.890,3.590,22.20,41.40
+52.45,Nominal Mode,0.890,3.590,22.20,41.40
+52.71,Nominal Mode,0.890,3.590,22.20,41.40
+53.00,Nominal Mode,0.890,3.590,22.20,41.40
+53.31,Nominal Mode,0.890,3.590,22.20,41.40
+53.59,Nominal Mode,0.890,3.590,22.20,41.40
+53.86,Nominal Mode,0.890,3.590,22.20,41.40
+54.13,Nominal Mode,0.890,3.590,22.20,41.40
+54.42,Nominal Mode,0.890,3.590,22.20,41.40
+54.73,Nominal Mode,0.890,3.590,22.20,41.40
+55.00,Nominal Mode,0.890,3.590,22.20,41.40
+55.26,Nominal Mode,0.890,3.590,22.20,41.40
+55.54,Nominal Mode,0.890,3.590,22.20,41.40
+55.86,Nominal Mode,0.890,3.590,22.20,41.40
+56.13,Nominal Mode,0.890,3.580,22.20,41.40
+56.39,Nominal Mode,0.890,3.580,22.20,41.40
+56.68,Nominal Mode,0.890,3.590,22.20,41.40
+57.00,Nominal Mode,0.890,3.590,22.20,41.40
+57.27,Nominal Mode,0.890,3.590,22.20,41.40
+57.55,Nominal Mode,0.890,3.590,22.20,41.40
+57.81,Nominal Mode,0.890,3.590,22.20,41.40
+58.12,Nominal Mode,0.890,3.580,22.20,41.40
+58.40,Nominal Mode,0.890,3.580,22.20,41.40
+58.68,Nominal Mode,0.890,3.580,22.20,41.40
+58.94,Nominal Mode,0.890,3.580,22.20,41.40
+59.22,Nominal Mode,0.890,3.580,22.20,41.40
+59.53,Nominal Mode,0.890,3.580,22.10,41.40
+59.81,Nominal Mode,0.890,3.580,22.10,41.40
+60.07,Nominal Mode,0.890,3.580,22.10,41.40
+60.38,Nominal Mode,0.890,3.580,22.10,41.40
+60.65,Nominal Mode,0.890,3.580,22.10,41.40
+60.96,Nominal Mode,0.890,3.580,22.10,41.40
+61.24,Nominal Mode,0.890,3.580,22.10,41.40
+61.49,Nominal Mode,0.890,3.580,22.10,41.40
+61.79,Nominal Mode,0.890,3.570,22.10,41.40
+62.08,Nominal Mode,0.890,3.580,22.10,41.40
+62.37,Nominal Mode,0.890,3.570,22.10,41.40
+62.63,Nominal Mode,0.890,3.570,22.10,41.40
+62.90,Nominal Mode,0.890,3.570,22.10,41.40
+63.21,Nominal Mode,0.890,3.570,22.10,41.40
+63.50,Nominal Mode,0.890,3.570,22.10,41.40
+63.77,Nominal Mode,0.890,3.570,22.10,41.40
+64.04,Nominal Mode,0.890,3.570,22.10,41.40
+64.34,Nominal Mode,0.890,3.570,22.00,41.40
+64.63,Nominal Mode,0.890,3.570,22.10,41.40
+64.94,Nominal Mode,0.890,3.570,22.00,41.40
+65.17,Nominal Mode,0.890,3.570,22.00,41.40
+65.48,Nominal Mode,0.890,3.570,22.00,41.40
+65.76,Nominal Mode,0.890,3.570,22.00,41.40
+66.04,Nominal Mode,0.890,3.570,22.10,41.40
+66.30,Nominal Mode,0.890,3.570,22.10,41.40
+66.59,Nominal Mode,0.890,3.580,22.10,41.40
+66.89,Nominal Mode,0.890,3.580,22.10,41.40
+67.18,Nominal Mode,0.890,3.570,22.10,41.40
+67.46,Nominal Mode,0.890,3.570,22.10,41.40
+67.73,Nominal Mode,0.890,3.570,22.10,41.40
+68.03,Nominal Mode,0.890,3.570,22.10,41.40
+68.31,Nominal Mode,0.890,3.570,22.10,41.40
+68.60,Nominal Mode,0.890,3.570,22.00,41.40
+68.85,Nominal Mode,0.890,3.570,22.00,41.40
+69.13,Nominal Mode,0.890,3.570,22.10,41.40
+69.44,Nominal Mode,0.890,3.570,22.10,41.40
+69.73,Nominal Mode,0.890,3.570,22.00,40.90
+69.99,Nominal Mode,0.890,3.570,22.00,41.00
+70.26,Nominal Mode,0.890,3.570,22.00,41.00
+70.57,Nominal Mode,0.890,3.570,22.00,41.10
+70.85,Nominal Mode,0.890,3.570,22.00,41.10
+71.12,Nominal Mode,0.890,3.570,22.00,41.10
+71.41,Nominal Mode,0.890,3.570,22.00,40.70
+71.72,Nominal Mode,0.890,3.560,22.10,40.30
+72.00,Nominal Mode,0.890,3.570,22.10,39.90
+72.28,Nominal Mode,0.890,3.570,22.10,39.90
+72.53,Nominal Mode,0.890,3.560,22.10,39.60
+72.83,Nominal Mode,0.890,3.560,22.00,39.30
+73.13,Nominal Mode,0.890,3.570,22.10,39.50
+73.39,Nominal Mode,0.890,3.570,22.10,39.20
+73.66,Nominal Mode,0.890,3.570,22.10,39.00
+73.95,Nominal Mode,0.890,3.570,22.00,38.70
+74.25,Nominal Mode,0.890,3.560,22.00,38.50
+74.53,Nominal Mode,0.890,3.570,22.00,38.30
+74.82,Nominal Mode,0.890,3.570,22.00,38.10
+75.08,Nominal Mode,0.890,3.570,22.00,38.00
+75.38,Nominal Mode,0.890,3.560,22.00,37.80
+75.66,Nominal Mode,0.890,3.560,22.00,37.70
+75.95,Nominal Mode,0.890,3.570,22.00,37.60
+76.21,Nominal Mode,0.890,3.570,22.00,37.50
+76.50,Nominal Mode,0.890,3.570,22.00,37.80
+76.81,Nominal Mode,0.890,3.570,22.00,38.10
+77.09,Nominal Mode,0.890,3.570,22.00,38.00
+77.35,Nominal Mode,0.890,3.570,22.00,37.80
+77.63,Nominal Mode,0.890,3.560,22.00,37.70
+77.93,Nominal Mode,0.890,3.560,22.00,37.60
+78.21,Nominal Mode,0.890,3.560,22.00,37.50
+78.50,Nominal Mode,0.890,3.570,22.00,37.40
+78.76,Nominal Mode,0.890,3.570,22.00,37.30
+79.06,Nominal Mode,0.890,3.570,22.00,37.20
+79.34,Nominal Mode,0.890,3.570,22.00,37.10
+79.62,Nominal Mode,0.890,3.570,22.00,37.10
+79.90,Nominal Mode,0.890,3.570,22.00,37.00
+80.18,Nominal Mode,0.890,3.560,22.00,36.90
+80.48,Nominal Mode,0.890,3.560,22.00,36.90
+80.76,Nominal Mode,0.890,3.560,22.00,36.80
+81.05,Nominal Mode,0.890,3.570,22.00,37.10
+81.31,Nominal Mode,0.890,3.560,22.00,37.00
+81.62,Nominal Mode,0.890,3.570,22.00,37.10
+81.89,Nominal Mode,0.890,3.560,22.00,37.10
+82.17,Nominal Mode,0.890,3.570,22.00,37.10
+82.45,Nominal Mode,0.890,3.570,22.10,37.10
+82.74,Nominal Mode,0.890,3.570,22.10,37.00
+83.05,Nominal Mode,0.890,3.570,22.10,37.00
+83.33,Nominal Mode,0.890,3.570,22.00,36.90
+83.57,Nominal Mode,0.890,3.570,22.00,36.90
+83.86,Nominal Mode,0.890,3.560,22.00,36.80
+84.19,Nominal Mode,0.890,3.570,22.00,36.80
+84.47,Nominal Mode,0.890,3.570,22.00,37.00
+84.72,Nominal Mode,0.890,3.570,22.00,37.10
+85.00,Nominal Mode,0.890,3.570,22.00,37.40
+85.30,Nominal Mode,0.890,3.570,22.00,37.30
+85.59,Nominal Mode,0.890,3.570,22.00,37.50
+85.87,Nominal Mode,0.890,3.570,22.00,37.40
+86.12,Nominal Mode,0.890,3.570,22.00,37.80
+86.41,Nominal Mode,0.890,3.570,22.00,38.10
+86.74,Nominal Mode,0.890,3.570,22.00,38.40
+87.00,Nominal Mode,0.890,3.570,22.00,38.70
+87.26,Nominal Mode,0.890,3.570,22.00,38.90
+87.54,Nominal Mode,0.890,3.570,22.00,39.10
+87.87,Nominal Mode,0.890,3.570,22.00,39.30
+88.16,Nominal Mode,0.890,3.570,21.90,39.50
+88.39,Nominal Mode,0.890,3.570,22.00,39.70
+88.68,Nominal Mode,0.890,3.570,22.00,39.90
+89.00,Nominal Mode,0.890,3.570,22.00,40.00
+89.28,Nominal Mode,0.890,3.570,22.00,40.10
+89.56,Nominal Mode,0.890,3.570,21.90,40.20
+89.81,Nominal Mode,0.890,3.570,22.00,40.30
+90.10,Nominal Mode,0.890,3.570,21.90,40.40
+90.43,Nominal Mode,0.890,3.570,22.00,40.50
+90.68,Nominal Mode,0.890,3.570,21.90,40.60
+90.94,Nominal Mode,0.890,3.570,22.00,40.70
+91.22,Nominal Mode,0.890,3.570,21.90,40.70
+91.53,Nominal Mode,0.890,3.570,21.90,40.80
+91.81,Nominal Mode,0.890,3.570,21.90,40.40
+92.09,Nominal Mode,0.890,3.570,21.90,40.50
+92.35,Nominal Mode,0.890,3.570,21.90,40.60
+92.65,Nominal Mode,0.890,3.570,21.90,40.20
+92.92,Nominal Mode,0.890,3.570,21.90,39.80
+93.23,Nominal Mode,0.890,3.570,21.90,39.50
+93.49,Nominal Mode,0.890,3.570,21.90,39.20
+93.77,Nominal Mode,0.890,3.570,21.90,39.10
+94.10,Nominal Mode,0.890,3.570,22.00,39.00
+94.40,Nominal Mode,0.890,3.570,21.90,38.80
+94.64,Nominal Mode,0.890,3.570,22.00,38.60
+94.91,Nominal Mode,0.890,3.560,21.90,38.40
+95.23,Nominal Mode,0.890,3.570,22.00,38.50
+95.54,Nominal Mode,0.890,3.570,21.90,38.80
+95.79,Nominal Mode,0.890,3.560,21.90,38.50
+96.03,Nominal Mode,0.890,3.570,22.00,38.30
+96.36,Nominal Mode,0.890,3.570,21.90,38.20
+96.64,Nominal Mode,0.890,3.570,21.90,38.00
+96.94,Nominal Mode,0.890,3.570,21.90,37.90
+97.16,Nominal Mode,0.890,3.560,21.90,37.70
+97.45,Nominal Mode,0.890,3.570,21.90,37.60
+97.76,Nominal Mode,0.890,3.570,21.90,37.60
+98.04,Nominal Mode,0.890,3.570,21.90,37.50
+98.31,Nominal Mode,0.890,3.570,21.90,37.60
+98.58,Nominal Mode,0.890,3.570,21.90,37.80
+98.89,Nominal Mode,0.890,3.570,21.90,37.60
+99.18,Nominal Mode,0.890,3.570,21.90,37.80
+99.47,Nominal Mode,0.890,3.570,21.90,38.20
+99.72,Nominal Mode,0.890,3.570,21.90,38.50
+100.00,Nominal Mode,0.890,3.570,21.90,38.70
+100.33,Nominal Mode,0.890,3.570,21.90,38.50
+100.59,Nominal Mode,0.890,3.570,21.90,38.30
+100.85,Nominal Mode,0.890,3.560,21.90,38.10
+101.14,Nominal Mode,0.890,3.570,21.90,38.40
+101.44,Nominal Mode,0.890,3.570,21.90,38.70
+101.73,Nominal Mode,0.890,3.570,21.90,38.90
+101.98,Nominal Mode,0.890,3.570,21.90,39.20
+102.26,Nominal Mode,0.890,3.570,21.90,39.40
+102.55,Nominal Mode,0.890,3.570,21.80,39.60
+102.87,Nominal Mode,0.890,3.570,21.90,39.70
+103.15,Nominal Mode,0.890,3.570,21.90,39.90
+103.40,Nominal Mode,0.890,3.570,21.90,40.00
+103.68,Nominal Mode,0.890,3.570,21.90,40.10
+104.03,Nominal Mode,0.890,3.570,21.90,40.30
+104.28,Nominal Mode,0.890,3.570,21.90,40.40
+104.53,Nominal Mode,0.890,3.570,21.90,40.50
+104.81,Nominal Mode,0.890,3.570,21.90,40.50
+105.15,Nominal Mode,0.890,3.570,21.90,40.60
+105.40,Nominal Mode,0.890,3.570,21.80,40.70
+105.69,Nominal Mode,0.890,3.570,21.90,40.80
+105.95,Nominal Mode,0.890,3.570,21.90,40.80
+106.28,Nominal Mode,0.890,3.570,21.80,40.90
+106.53,Nominal Mode,0.890,3.570,21.80,40.90
+106.83,Nominal Mode,0.890,3.570,21.80,41.00
+107.07,Nominal Mode,0.890,3.570,21.80,41.00
+107.36,Nominal Mode,0.890,3.570,21.80,41.00
+107.67,Nominal Mode,0.890,3.570,21.80,41.10
+107.97,Nominal Mode,0.890,3.570,21.90,41.10
+108.21,Nominal Mode,0.890,3.570,21.80,41.10
+108.50,Nominal Mode,0.880,3.580,21.80,41.20
+108.84,Nominal Mode,0.880,3.580,21.90,41.20
+109.09,Nominal Mode,0.880,3.580,21.50,41.20
+109.39,Nominal Mode,0.880,3.580,22.00,41.20
+109.63,Nominal Mode,0.880,3.580,22.10,41.20
+109.95,Nominal Mode,0.880,3.580,22.10,41.20
+110.23,Nominal Mode,0.890,3.580,22.10,41.30
+110.53,Nominal Mode,0.890,3.580,22.10,41.30
+110.76,Nominal Mode,0.890,3.580,22.10,41.30
+111.04,Nominal Mode,0.890,3.580,22.10,41.30
+111.35,Nominal Mode,0.890,3.580,22.10,41.30
+111.65,Nominal Mode,0.890,3.580,22.10,41.30
+111.89,Nominal Mode,0.890,3.580,22.00,41.30
+112.17,Nominal Mode,0.890,3.580,22.10,41.30
+112.51,Nominal Mode,0.890,3.580,22.00,41.30
+112.79,Nominal Mode,0.890,3.580,22.10,41.30
+113.05,Nominal Mode,0.890,3.580,22.00,41.40
+113.31,Nominal Mode,0.890,3.580,22.00,41.40
+113.65,Nominal Mode,0.890,3.580,22.10,41.40
+113.91,Nominal Mode,0.890,3.580,22.00,41.40
+114.22,Nominal Mode,0.890,3.580,22.10,41.40
+114.44,Nominal Mode,0.890,3.580,22.10,41.40
+114.72,Nominal Mode,0.890,3.580,22.10,41.40
+115.12,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.580,22.10,41.40
+115.47,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.580,22.10,41.40
+115.83,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.580,22.10,41.40
+116.17,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.580,22.10,41.40
+116.54,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.580,22.10,41.40
+116.91,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.10,41.40
+117.24,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.10,41.40
+117.60,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.580,22.00,41.40
+117.96,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.580,22.00,41.40
+118.29,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.580,22.10,41.40
+118.64,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.10,41.40
+118.98,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.10,41.40
+119.34,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.580,22.10,41.40
+119.66,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.10,41.40
+120.02,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.580,22.10,41.40
+120.34,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.10,41.40
+120.69,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.580,22.20,41.40
+121.03,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.580,22.20,41.40
+121.39,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.580,22.20,41.40
+121.78,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.10,41.40
+122.09,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.10,41.40
+122.47,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.580,22.10,41.40
+122.83,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.580,22.10,41.40
+123.19,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.10,41.40
+123.57,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.10,41.40
+123.88,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.10,41.40
+124.26,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.580,22.10,41.40
+124.59,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.10,41.40
+124.95,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.580,22.10,41.40
+125.32,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.580,22.10,41.40
+125.65,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.10,41.40
+126.01,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.10,41.40
+126.35,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.10,41.40
+126.76,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.10,41.40
+127.08,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.10,41.40
+127.43,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.10,41.40
+127.72,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.10,41.40
+128.06,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.10,41.40
+128.41,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.10,41.40
+128.78,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.10,41.40
+129.11,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.00,41.40
+129.52,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.00,41.40
+129.82,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.00,41.40
+130.21,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.00,41.40
+130.58,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.00,41.40
+130.92,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.570,22.00,41.40
+131.29,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.570,22.00,41.40
+131.57,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.570,22.00,41.40
+131.99,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.00,41.40
+132.31,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.00,41.40
+132.71,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.00,41.40
+133.03,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.00,41.40
+133.41,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.00,41.40
+133.75,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.00,41.40
+134.09,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.10,41.40
+134.45,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.10,41.40
+134.79,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.00,41.40
+135.14,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.10,41.40
+135.48,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.00,41.40
+135.82,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.10,41.40
+136.14,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.10,41.40
+136.49,Degraded Mode Temperature Faulty Sensor # 1,0.890,3.570,22.10,41.40
+136.84,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.570,22.10,41.40
+137.19,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.570,22.10,41.40
+137.55,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.570,22.10,41.40
+137.95,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.570,22.10,41.40
+138.25,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.570,22.10,41.40
+138.60,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.570,22.10,41.40
+139.00,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.570,22.10,41.40
+139.35,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.570,22.10,41.40
+139.72,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.570,22.10,41.40
+140.00,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.570,22.10,41.40
+140.45,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.570,22.10,41.40
+140.74,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.570,22.10,41.40
+141.11,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.570,22.10,41.40
+141.47,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.570,22.10,41.40
+141.83,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.570,22.10,41.40
+142.18,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.570,22.10,41.40
+142.51,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.570,22.10,41.40
+142.90,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.570,22.10,41.40
+143.25,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.570,22.10,41.40
+143.56,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.570,22.10,41.40
+143.86,Degraded Mode Temperature Faulty Sensor # 1,0.870,3.580,22.10,41.40
+144.22,Degraded Mode Temperature Faulty Sensor # 1,0.870,3.580,22.10,41.40
+144.57,Degraded Mode Temperature Faulty Sensor # 1,0.870,3.580,22.10,41.40
+144.92,Degraded Mode Temperature Faulty Sensor # 1,0.870,3.580,22.10,41.40
+145.36,Degraded Mode Temperature Faulty Sensor # 1,0.870,3.580,22.00,41.40
+145.62,Degraded Mode Temperature Faulty Sensor # 1,0.870,3.580,22.00,41.40
+146.02,Degraded Mode Temperature Faulty Sensor # 1,0.870,3.580,22.00,41.40
+146.32,Degraded Mode Temperature Faulty Sensor # 1,0.870,3.580,22.00,41.40
+146.78,Degraded Mode Temperature Faulty Sensor # 1,0.870,3.580,22.00,41.40
+147.02,Degraded Mode Temperature Faulty Sensor # 1,0.870,3.580,22.00,41.40
+147.43,Degraded Mode Temperature Faulty Sensor # 1,0.870,3.580,22.00,41.40
+147.82,Degraded Mode Temperature Faulty Sensor # 1,0.870,3.580,22.00,41.40
+148.08,Degraded Mode Temperature Faulty Sensor # 1,0.870,3.580,22.00,41.40
+148.50,Degraded Mode Temperature Faulty Sensor # 1,0.870,3.580,22.00,41.40
+148.85,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.580,22.00,41.40
+149.21,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.580,22.00,41.40
+149.57,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.590,22.00,41.40
+149.91,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.580,22.00,41.40
+150.26,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.590,22.00,41.40
+150.61,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.580,22.00,41.40
+150.96,Degraded Mode Temperature Faulty Sensor # 1,0.870,3.580,22.00,41.40
+151.30,Degraded Mode Temperature Faulty Sensor # 1,0.870,3.580,22.00,41.40
+151.63,Degraded Mode Temperature Faulty Sensor # 1,0.870,3.580,22.00,41.40
+152.02,Degraded Mode Temperature Faulty Sensor # 1,0.870,3.580,22.10,41.40
+152.35,Degraded Mode Temperature Faulty Sensor # 1,0.870,3.580,22.10,41.40
+152.65,Degraded Mode Temperature Faulty Sensor # 1,0.870,3.580,22.00,41.40
+153.00,Degraded Mode Temperature Faulty Sensor # 1,0.870,3.580,22.10,41.40
+153.36,Degraded Mode Temperature Faulty Sensor # 1,0.870,3.580,22.00,41.40
+153.74,Degraded Mode Temperature Faulty Sensor # 1,0.870,3.580,22.00,41.40
+154.05,Degraded Mode Temperature Faulty Sensor # 1,0.870,3.580,22.00,41.40
+154.47,Degraded Mode Temperature Faulty Sensor # 1,0.870,3.580,22.00,41.40
+154.75,Degraded Mode Temperature Faulty Sensor # 1,0.870,3.580,22.00,41.40
+155.15,Degraded Mode Temperature Faulty Sensor # 1,0.870,3.580,22.10,41.40
+155.54,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.580,22.10,41.40
+155.85,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.580,22.10,41.40
+156.24,Degraded Mode Temperature Faulty Sensor # 1,0.880,3.580,22.10,41.40
+156.49,Nominal Mode,0.880,3.580,22.10,41.40
+156.77,Nominal Mode,0.870,3.580,21.60,41.40
+157.02,Nominal Mode,0.870,3.580,21.60,41.40
+157.33,Nominal Mode,0.880,3.580,21.50,41.40
+157.58,Nominal Mode,0.870,3.580,21.50,41.40
+157.88,Nominal Mode,0.870,3.580,21.50,41.40
+158.15,Nominal Mode,0.870,3.580,21.50,41.40
+158.43,Nominal Mode,0.870,3.580,21.50,41.40
+158.73,Nominal Mode,0.870,3.580,21.50,41.40
+159.04,Nominal Mode,0.870,3.580,21.50,41.40
+159.30,Nominal Mode,0.870,3.580,21.50,41.40
+159.56,Nominal Mode,0.870,3.570,21.50,41.40
+159.88,Nominal Mode,0.870,3.580,21.50,41.40
+160.13,Nominal Mode,0.870,3.580,21.50,41.40
+160.44,Nominal Mode,0.870,3.580,21.50,41.40
+160.69,Nominal Mode,0.870,3.570,21.50,41.40
+161.03,Nominal Mode,0.870,3.570,21.50,41.40
+161.33,Nominal Mode,0.870,3.580,21.50,41.40
+161.58,Nominal Mode,0.870,3.570,21.50,41.40
+161.83,Nominal Mode,0.870,3.570,21.60,41.40
+162.11,Nominal Mode,0.870,3.580,21.60,41.40
+162.44,Nominal Mode,0.870,3.580,21.60,41.40
+162.71,Nominal Mode,0.870,3.580,21.60,41.40
+162.98,Nominal Mode,0.870,3.580,21.60,41.40
+163.25,Nominal Mode,0.870,3.580,21.60,41.40
+163.60,Nominal Mode,0.870,3.580,21.60,41.40
+163.83,Nominal Mode,0.870,3.580,21.60,41.40
+164.13,Nominal Mode,0.870,3.570,21.60,41.40
+164.38,Nominal Mode,0.870,3.580,21.60,41.40
+164.69,Nominal Mode,0.870,3.570,21.60,41.40
+164.98,Nominal Mode,0.870,3.580,21.70,41.40
+165.25,Nominal Mode,0.870,3.580,21.70,41.40
+165.52,Nominal Mode,0.870,3.580,21.70,41.40
+165.79,Nominal Mode,0.870,3.570,21.70,41.40
+166.12,Nominal Mode,0.870,3.580,21.70,41.40
+166.39,Nominal Mode,0.870,3.570,21.70,41.40
+166.68,Nominal Mode,0.870,3.580,21.70,41.40
+166.92,Nominal Mode,0.870,3.580,21.70,41.40
+167.24,Nominal Mode,0.870,3.570,21.70,41.40
+167.53,Nominal Mode,0.870,3.580,21.80,41.40
+167.82,Nominal Mode,0.870,3.570,21.80,41.40
+168.07,Nominal Mode,0.870,3.580,21.80,41.40
+168.34,Nominal Mode,0.870,3.580,21.80,41.40
+168.70,Nominal Mode,0.870,3.570,21.80,41.40
+168.92,Nominal Mode,0.870,3.580,21.80,41.40
+169.19,Nominal Mode,0.870,3.580,21.80,41.40
+169.47,Nominal Mode,0.870,3.580,21.80,41.40
+169.78,Nominal Mode,0.870,3.580,21.70,41.40
+170.10,Nominal Mode,0.870,3.580,21.70,41.40
+170.33,Nominal Mode,0.870,3.580,21.70,41.40
+170.61,Nominal Mode,0.870,3.570,21.70,41.40
+170.92,Nominal Mode,0.870,3.570,21.70,41.40
+171.17,Nominal Mode,0.870,3.570,21.80,41.40
+171.48,Nominal Mode,0.870,3.580,21.80,41.40
+171.74,Nominal Mode,0.870,3.580,21.80,41.40
+172.02,Nominal Mode,0.870,3.580,21.80,41.40
+172.36,Nominal Mode,0.870,3.570,21.80,41.40
+172.64,Nominal Mode,0.870,3.570,21.80,41.40
+172.87,Nominal Mode,0.870,3.570,21.80,41.40
+173.16,Nominal Mode,0.880,3.570,21.80,41.40
+173.46,Nominal Mode,0.880,3.570,21.80,41.40
+173.77,Nominal Mode,0.880,3.570,21.80,41.40
+174.04,Nominal Mode,0.880,3.570,21.70,41.40
+174.29,Nominal Mode,0.880,3.570,21.70,41.40
+174.59,Nominal Mode,0.880,3.570,21.70,41.40
+174.85,Nominal Mode,0.880,3.580,22.10,41.40
+175.15,Nominal Mode,0.880,3.570,22.10,41.40
+175.42,Nominal Mode,0.870,3.570,22.10,41.40
+175.70,Nominal Mode,0.880,3.570,22.10,41.40
+176.03,Nominal Mode,0.880,3.570,22.10,41.40
+176.32,Nominal Mode,0.880,3.570,22.10,41.40
+176.57,Nominal Mode,0.880,3.570,22.10,41.40
+176.84,Nominal Mode,0.870,3.570,22.10,41.40
+177.15,Nominal Mode,0.870,3.570,22.10,41.40
+177.46,Nominal Mode,0.880,3.570,22.10,41.40
+177.71,Nominal Mode,0.880,3.570,22.10,41.40
+177.97,Nominal Mode,0.880,3.570,22.10,41.40
+178.27,Nominal Mode,0.880,3.570,22.10,41.40
+178.60,Nominal Mode,0.880,3.570,22.20,41.30
+178.85,Nominal Mode,0.880,3.570,22.20,41.30
+179.10,Nominal Mode,0.880,3.570,22.20,41.30
+179.39,Nominal Mode,0.880,3.570,22.20,41.30
+182.06,Nominal Mode,0.880,3.570,22.20,41.30
+182.12,Degraded Mode Temperature Faulty Sensor # 3,0.880,3.570,22.20,41.30
+182.21,Degraded Mode Temperature Faulty Sensor # 3,0.880,3.570,22.20,41.30
+182.22,Degraded Mode Temperature Faulty Sensor # 3,0.880,3.570,22.10,41.30
+182.28,Degraded Mode Temperature Faulty Sensor # 3,0.880,3.570,22.10,41.30
+182.30,Degraded Mode Temperature Faulty Sensor # 3,0.880,3.570,22.10,41.30
+182.36,Degraded Mode Temperature Faulty Sensor # 3,0.880,3.570,22.10,41.30
+182.37,Degraded Mode Temperature Faulty Sensor # 3,0.880,3.570,22.10,41.20
+182.53,Degraded Mode Temperature Faulty Sensor # 3,0.870,3.570,22.10,41.20
+182.88,Degraded Mode Temperature Faulty Sensor # 3,0.860,3.580,22.10,41.20
+183.21,Degraded Mode Temperature Faulty Sensor # 3,0.870,3.580,20.00,42.40
+183.52,Degraded Mode Temperature Faulty Sensor # 3,0.870,3.570,17.20,43.40
+183.88,Degraded Mode Temperature Faulty Sensor # 3,0.870,3.580,14.50,44.30
+184.23,Degraded Mode Temperature Faulty Sensor # 3,0.870,3.570,12.00,44.40
+184.58,Degraded Mode Temperature Faulty Sensor # 3,0.870,3.570,9.70,44.50
+185.00,Degraded Mode Temperature Faulty Sensor # 3,0.870,3.570,7.60,45.40
+185.28,Degraded Mode Temperature Faulty Sensor # 3,0.870,3.570,5.60,46.20
+185.71,Degraded Mode Temperature Faulty Sensor # 3,0.870,3.570,3.90,46.90
+185.98,Degraded Mode Temperature Faulty Sensor # 3,0.870,3.570,2.30,47.50
+186.37,Degraded Mode Temperature Faulty Sensor # 3,0.870,3.570,0.80,47.70
+186.68,Degraded Mode Temperature Faulty Sensor # 3,0.870,3.570,-0.50,48.60
+246.23,Nominal Mode,0.870,3.680,2.00,6.00
+246.56,Nominal Mode,0.870,3.670,3.80,11.40
+246.84,Nominal Mode,0.870,3.670,5.40,15.80
+247.07,Nominal Mode,0.870,3.680,6.90,20.30
+247.35,Nominal Mode,0.880,3.680,8.30,24.50
+247.69,Nominal Mode,0.880,3.680,9.50,27.30
+247.94,Nominal Mode,0.880,3.680,10.60,29.90
+248.25,Nominal Mode,0.880,3.680,11.60,32.30
+248.48,Nominal Mode,0.880,3.690,12.50,34.50
+248.81,Nominal Mode,0.880,3.690,13.40,36.50
+249.08,Nominal Mode,0.880,3.680,14.10,39.40
+249.36,Nominal Mode,0.880,3.690,14.80,41.60
+249.62,Nominal Mode,0.880,3.690,15.40,43.70
+249.90,Nominal Mode,0.880,3.690,16.00,45.50
+250.21,Nominal Mode,0.880,3.690,16.50,47.20
+250.52,Nominal Mode,0.880,3.690,17.00,48.70
+250.75,Nominal Mode,0.880,3.690,17.40,50.10
+251.03,Nominal Mode,0.880,3.680,17.80,51.80
+251.36,Nominal Mode,0.880,3.690,18.10,52.90
+251.64,Nominal Mode,0.880,3.690,18.50,53.90
+251.94,Nominal Mode,0.880,3.690,18.80,54.80
+252.17,Nominal Mode,0.880,3.690,19.00,55.60
+252.50,Nominal Mode,0.880,3.690,19.30,56.40
+252.75,Nominal Mode,0.880,3.680,19.50,57.50
+253.06,Nominal Mode,0.880,3.680,19.70,58.50
+253.30,Nominal Mode,0.880,3.680,19.90,59.40
+253.58,Nominal Mode,0.880,3.680,20.00,60.20
+253.89,Nominal Mode,0.880,3.680,20.20,60.20
+254.20,Nominal Mode,0.880,3.680,20.30,60.30
+254.48,Nominal Mode,0.880,3.680,20.40,60.30
+254.72,Nominal Mode,0.880,3.680,20.60,60.40
+255.02,Nominal Mode,0.880,3.680,20.70,60.40
+255.32,Nominal Mode,0.880,3.680,20.80,60.50
+255.61,Nominal Mode,0.880,3.690,20.80,59.90
+255.85,Nominal Mode,0.880,3.690,20.90,59.40
+256.15,Nominal Mode,0.880,3.690,21.00,59.10
+256.45,Nominal Mode,0.880,3.690,21.10,58.80
+256.73,Nominal Mode,0.880,3.690,21.10,58.50
+256.99,Nominal Mode,0.880,3.680,21.20,58.10
+257.27,Nominal Mode,0.880,3.690,21.20,57.90
+257.57,Nominal Mode,0.880,3.680,21.30,57.50
+257.88,Nominal Mode,0.880,3.690,21.30,57.40
+258.13,Nominal Mode,0.880,3.690,21.30,57.20
+258.39,Nominal Mode,0.880,3.690,21.40,57.10
+258.72,Nominal Mode,0.880,3.680,21.40,56.80
+259.00,Nominal Mode,0.880,3.680,21.40,56.60
+259.28,Nominal Mode,0.880,3.690,21.50,56.40
+259.56,Nominal Mode,0.880,3.690,21.50,56.30
+259.83,Nominal Mode,0.880,3.690,21.50,56.20
+260.13,Nominal Mode,0.880,3.690,21.50,56.20
+260.41,Nominal Mode,0.880,3.690,21.50,56.10
+260.66,Nominal Mode,0.880,3.690,21.50,56.00
+260.94,Nominal Mode,0.880,3.680,21.50,55.80
+261.28,Nominal Mode,0.880,3.690,21.50,55.80
+261.56,Nominal Mode,0.880,3.690,21.50,55.80
+261.80,Nominal Mode,0.880,3.690,21.50,55.80
+262.07,Nominal Mode,0.880,3.690,21.60,55.80
+262.39,Nominal Mode,0.880,3.690,21.60,55.80
+262.66,Nominal Mode,0.880,3.690,21.60,55.80
+262.97,Nominal Mode,0.880,3.690,21.60,55.70
+263.20,Nominal Mode,0.880,3.690,21.60,55.70
+263.53,Nominal Mode,0.880,3.690,21.60,55.70
+263.82,Nominal Mode,0.880,3.690,21.60,55.70
+264.10,Nominal Mode,0.880,3.690,21.60,55.70
+264.34,Nominal Mode,0.880,3.690,21.60,55.70
+264.62,Nominal Mode,0.880,3.690,21.60,55.70
+264.95,Nominal Mode,0.880,3.690,21.60,55.70
+265.22,Nominal Mode,0.880,3.690,21.60,55.70
+265.51,Nominal Mode,0.880,3.690,21.60,55.70
+265.75,Nominal Mode,0.880,3.690,21.60,55.70
+266.06,Nominal Mode,0.880,3.690,21.60,55.70
+266.36,Nominal Mode,0.880,3.690,21.70,55.70
+266.62,Nominal Mode,0.880,3.690,21.70,55.70
+266.89,Nominal Mode,0.890,3.690,21.70,55.70
+267.18,Nominal Mode,0.890,3.690,21.70,55.70
+267.54,Nominal Mode,0.890,3.690,21.70,55.70
+267.78,Nominal Mode,0.890,3.690,21.70,55.80
+268.02,Nominal Mode,0.890,3.690,21.70,55.90
+268.31,Nominal Mode,0.890,3.700,21.70,55.90
+268.62,Nominal Mode,0.890,3.700,21.70,56.00
+268.91,Nominal Mode,0.890,3.690,21.70,56.10
+269.20,Nominal Mode,0.890,3.690,21.70,56.00
+269.44,Nominal Mode,0.890,3.690,21.70,56.00
+269.77,Nominal Mode,0.890,3.690,21.70,56.00
+270.05,Nominal Mode,0.890,3.690,21.70,56.00
+270.33,Nominal Mode,0.890,3.690,21.70,56.10
+270.57,Nominal Mode,0.890,3.690,21.70,56.00
+270.85,Nominal Mode,0.890,3.690,21.70,56.10
+271.16,Nominal Mode,0.890,3.690,21.70,56.20
+271.47,Nominal Mode,0.890,3.690,21.70,56.20
+271.70,Nominal Mode,0.890,3.690,21.70,56.10
+271.99,Nominal Mode,0.890,3.690,21.70,56.10
+272.29,Nominal Mode,0.890,3.690,21.70,56.10
+272.60,Nominal Mode,0.890,3.690,21.70,56.10
+272.85,Nominal Mode,0.890,3.690,21.70,56.20
+273.11,Nominal Mode,0.890,3.690,21.70,56.10
+273.41,Nominal Mode,0.880,3.680,21.70,55.90
+273.71,Nominal Mode,0.890,3.680,21.70,55.60
+273.98,Nominal Mode,0.880,3.680,21.70,55.40
+274.25,Nominal Mode,0.890,3.680,21.70,55.20
+274.55,Nominal Mode,0.880,3.680,21.70,55.00
+274.87,Nominal Mode,0.880,3.690,21.70,55.10
+275.13,Nominal Mode,0.880,3.690,21.60,55.10
+275.40,Nominal Mode,0.880,3.690,21.60,55.20
+275.67,Nominal Mode,0.880,3.690,21.60,55.30
+276.00,Nominal Mode,0.880,3.690,21.70,55.40
+276.29,Nominal Mode,0.880,3.680,21.70,55.30
+276.54,Nominal Mode,0.880,3.680,21.70,55.20
+276.80,Nominal Mode,0.880,3.690,21.70,55.30
+277.11,Nominal Mode,0.880,3.690,21.70,55.30
+277.36,Nominal Mode,0.880,3.680,21.70,55.20
+277.66,Nominal Mode,0.880,3.680,21.70,55.10
+277.93,Nominal Mode,0.880,3.680,21.70,54.90
+278.22,Nominal Mode,0.880,3.680,21.70,54.80
+278.55,Nominal Mode,0.880,3.680,21.70,54.70
+278.81,Nominal Mode,0.880,3.680,21.70,54.60
+279.09,Nominal Mode,0.880,3.680,21.70,54.60
+279.34,Nominal Mode,0.880,3.690,21.70,54.50
+279.65,Nominal Mode,0.880,3.680,21.70,54.50
+279.94,Nominal Mode,0.890,3.680,21.70,54.40
+280.21,Nominal Mode,0.890,3.690,21.70,54.50
+280.48,Nominal Mode,0.880,3.680,21.70,54.40
+280.76,Nominal Mode,0.880,3.680,21.70,54.30
+281.07,Nominal Mode,0.890,3.690,21.70,54.40
+281.35,Nominal Mode,0.870,3.690,21.70,54.50
+281.61,Nominal Mode,0.880,3.690,21.70,54.60
+281.90,Nominal Mode,0.880,3.690,21.70,54.70
+282.22,Nominal Mode,0.880,3.680,21.70,54.70
+282.48,Nominal Mode,0.880,3.680,21.70,54.50
+282.75,Nominal Mode,0.880,3.680,21.70,54.40
+283.03,Nominal Mode,0.880,3.680,21.70,54.30
+283.33,Nominal Mode,0.880,3.680,21.70,54.30
+283.61,Nominal Mode,0.880,3.680,21.70,54.20
+283.91,Nominal Mode,0.880,3.680,21.70,54.10
+284.16,Nominal Mode,0.880,3.690,21.70,54.20
+284.44,Nominal Mode,0.880,3.680,21.70,54.20
+284.74,Nominal Mode,0.880,3.680,21.70,54.10
+285.03,Nominal Mode,0.880,3.680,21.70,54.10
+285.29,Nominal Mode,0.880,3.690,21.70,54.20
+285.57,Nominal Mode,0.880,3.680,21.70,54.20
+285.90,Nominal Mode,0.880,3.680,21.70,54.20
+286.18,Nominal Mode,0.880,3.690,21.70,54.40
+286.47,Nominal Mode,0.880,3.690,21.70,54.50
+286.71,Nominal Mode,0.880,3.690,21.70,54.60
+287.02,Nominal Mode,0.880,3.690,21.70,54.70
+287.27,Nominal Mode,0.890,3.690,21.70,54.90
+287.60,Nominal Mode,0.890,3.700,21.60,55.00
+287.84,Nominal Mode,0.890,3.700,21.70,55.20
+288.12,Nominal Mode,0.880,3.690,21.60,55.20
+288.42,Nominal Mode,0.890,3.700,21.60,55.40
+288.70,Nominal Mode,0.880,3.700,21.60,55.50
+288.97,Nominal Mode,0.880,3.700,21.60,55.60
+289.27,Nominal Mode,0.880,3.700,21.60,55.70
+289.59,Nominal Mode,0.890,3.700,21.60,55.80
+289.84,Nominal Mode,0.890,3.700,21.60,55.90
+290.14,Nominal Mode,0.890,3.700,21.60,55.90
+290.39,Nominal Mode,0.890,3.700,21.60,56.00
+290.70,Nominal Mode,0.890,3.710,21.60,56.10
+290.98,Nominal Mode,0.880,3.690,21.60,56.10
+291.25,Nominal Mode,0.880,3.690,21.60,56.10
+291.52,Nominal Mode,0.880,3.680,21.60,55.80
+291.82,Nominal Mode,0.880,3.680,21.60,55.70
+292.13,Nominal Mode,0.880,3.690,21.60,55.60
+292.39,Nominal Mode,0.890,3.700,21.60,55.70
+292.67,Nominal Mode,0.890,3.700,21.60,55.70
+292.93,Nominal Mode,0.890,3.700,21.60,55.80
+293.25,Nominal Mode,0.890,3.700,21.60,55.90
+293.52,Nominal Mode,0.890,3.700,21.60,56.00
+293.81,Nominal Mode,0.890,3.700,21.60,56.10
+294.08,Nominal Mode,0.890,3.700,21.60,56.20
+294.35,Nominal Mode,0.880,3.690,21.60,56.10
+294.65,Nominal Mode,0.880,3.690,21.60,56.10
+294.95,Nominal Mode,0.880,3.690,21.60,56.00
+295.20,Nominal Mode,0.850,3.700,21.60,56.10
+295.48,Nominal Mode,0.830,3.710,21.60,56.20
+295.84,Nominal Mode,0.880,3.680,21.60,55.90
+296.08,Nominal Mode,0.880,3.680,21.60,55.80
+296.35,Nominal Mode,0.880,3.690,21.60,55.80
+296.62,Nominal Mode,0.880,3.690,21.60,55.70
+296.92,Nominal Mode,0.880,3.690,21.60,55.70
+297.20,Nominal Mode,0.880,3.690,21.50,55.70
+297.50,Nominal Mode,0.880,3.690,21.60,55.60
+297.75,Nominal Mode,0.880,3.690,21.60,55.60
+298.03,Nominal Mode,0.880,3.690,21.60,55.60
+298.34,Nominal Mode,0.880,3.680,21.60,55.40
+298.63,Nominal Mode,0.880,3.680,21.60,55.20
+298.88,Nominal Mode,0.880,3.680,21.60,55.00
+299.16,Nominal Mode,0.880,3.690,21.60,55.10
+299.48,Nominal Mode,0.880,3.680,21.60,55.00
+299.77,Nominal Mode,0.880,3.690,21.60,55.00
+300.06,Nominal Mode,0.880,3.680,21.50,55.00
+300.30,Nominal Mode,0.880,3.690,21.60,55.00
+300.63,Nominal Mode,0.880,3.690,21.50,55.10
+300.89,Nominal Mode,0.880,3.680,21.50,55.00
+301.17,Nominal Mode,0.880,3.690,21.60,55.10
+301.43,Nominal Mode,0.880,3.680,21.60,54.90
+301.71,Nominal Mode,0.880,3.680,21.50,54.70
+302.03,Nominal Mode,0.880,3.680,21.60,54.60
+302.32,Nominal Mode,0.880,3.680,21.60,54.50
+302.56,Nominal Mode,0.880,3.680,21.60,54.40
+302.85,Nominal Mode,0.880,3.680,21.60,54.20
+303.15,Nominal Mode,0.880,3.680,21.60,54.10
+303.43,Nominal Mode,0.880,3.680,21.60,54.10
+303.70,Nominal Mode,0.880,3.680,21.60,54.00
+303.99,Nominal Mode,0.880,3.680,21.60,53.90
+304.32,Nominal Mode,0.880,3.680,21.60,53.90
+304.59,Nominal Mode,0.880,3.680,21.60,53.90
+304.85,Nominal Mode,0.880,3.680,21.60,53.80
+305.11,Nominal Mode,0.880,3.680,21.60,53.70
+305.39,Nominal Mode,0.880,3.680,21.60,53.70
+305.70,Nominal Mode,0.880,3.680,21.70,53.60
+306.00,Nominal Mode,0.880,3.680,21.70,53.60
+306.24,Nominal Mode,0.880,3.680,21.70,53.60
+306.55,Nominal Mode,0.880,3.680,21.70,53.50
+306.84,Nominal Mode,0.880,3.680,21.70,53.50
+307.12,Nominal Mode,0.880,3.680,21.70,53.50
+307.42,Nominal Mode,0.880,3.680,21.70,53.50
+307.66,Nominal Mode,0.880,3.680,21.70,53.50
+308.00,Nominal Mode,0.880,3.680,21.70,53.50
+308.26,Nominal Mode,0.880,3.680,21.70,53.40
+308.56,Nominal Mode,0.880,3.680,21.70,53.40
+308.79,Nominal Mode,0.880,3.680,21.70,53.40
+309.07,Nominal Mode,0.880,3.680,21.70,53.40
+309.38,Nominal Mode,0.880,3.680,21.70,53.40
+309.69,Nominal Mode,0.880,3.680,21.70,53.30
+309.92,Nominal Mode,0.880,3.680,21.70,53.30
+310.21,Nominal Mode,0.880,3.670,21.70,53.30
+310.51,Nominal Mode,0.880,3.680,21.70,53.30
+310.79,Nominal Mode,0.880,3.680,21.70,53.30
+311.07,Nominal Mode,0.880,3.670,21.60,53.30
+311.34,Nominal Mode,0.880,3.680,21.60,53.30
+311.64,Nominal Mode,0.880,3.670,21.60,53.30
+311.91,Nominal Mode,0.880,3.680,21.60,53.20
+312.23,Nominal Mode,0.880,3.670,21.60,53.20
+312.47,Nominal Mode,0.880,3.680,21.70,53.20
+312.76,Nominal Mode,0.880,3.680,21.70,53.20
+313.07,Nominal Mode,0.880,3.670,21.70,53.20
+313.37,Nominal Mode,0.880,3.670,21.70,53.20
+313.62,Nominal Mode,0.880,3.680,21.70,53.20
+313.88,Nominal Mode,0.880,3.680,21.70,53.20
+314.19,Nominal Mode,0.880,3.680,21.70,53.20
+314.49,Nominal Mode,0.880,3.670,21.70,53.20
+314.79,Nominal Mode,0.880,3.680,21.70,53.20
+315.01,Nominal Mode,0.880,3.670,21.70,53.20
+315.33,Nominal Mode,0.860,3.690,21.70,53.40
+315.63,Nominal Mode,0.860,3.670,21.70,53.30
+315.89,Nominal Mode,0.870,3.670,21.70,53.20
+316.15,Nominal Mode,0.870,3.670,21.70,53.20
+316.44,Nominal Mode,0.860,3.670,21.70,53.10
+316.77,Nominal Mode,0.860,3.670,21.70,53.00
+317.03,Nominal Mode,0.860,3.670,21.70,53.10
+317.33,Nominal Mode,0.850,3.680,21.70,53.10
+317.57,Nominal Mode,0.870,3.660,21.70,52.90
+317.90,Nominal Mode,0.850,3.680,21.70,52.90
+318.17,Nominal Mode,0.840,3.680,21.70,53.00
+318.47,Nominal Mode,0.850,3.680,21.70,53.20
+318.70,Nominal Mode,0.850,3.680,21.70,53.20
+318.98,Nominal Mode,0.850,3.670,21.70,53.20
+319.29,Nominal Mode,0.850,3.650,21.70,53.00
+319.60,Nominal Mode,0.860,3.650,21.70,52.90
+319.83,Nominal Mode,0.860,3.650,21.70,52.80
+320.11,Nominal Mode,0.000,2.350,21.70,49.20
+396.84,Nominal Mode,0.840,3.790,2.00,6.60
+397.15,Nominal Mode,0.840,3.770,3.80,12.50
+397.43,Nominal Mode,0.860,3.770,5.40,17.90
+397.70,Nominal Mode,0.860,3.770,6.90,22.80
+397.96,Nominal Mode,0.860,3.760,8.20,27.20
+398.27,Nominal Mode,0.860,3.760,9.50,30.60
+398.57,Nominal Mode,0.850,3.710,10.60,33.10
+398.85,Nominal Mode,0.850,3.730,11.60,35.80
+399.09,Nominal Mode,0.860,3.740,12.50,38.10
+399.40,Nominal Mode,0.860,3.730,13.30,40.30
+399.66,Nominal Mode,0.860,3.730,14.10,42.20
+399.97,Nominal Mode,0.860,3.730,14.80,44.00
+400.22,Nominal Mode,0.860,3.730,15.40,45.60
+400.52,Nominal Mode,0.860,3.730,16.00,47.10
+400.83,Nominal Mode,0.860,3.740,16.50,48.50
+401.13,Nominal Mode,0.860,3.720,17.00,49.70
+401.37,Nominal Mode,0.840,3.730,17.40,50.80
+401.64,Nominal Mode,0.840,3.730,17.80,51.80
+401.95,Nominal Mode,0.840,3.730,18.20,52.70
+402.25,Nominal Mode,0.850,3.720,18.50,53.50
+402.53,Nominal Mode,0.840,3.730,18.80,54.30

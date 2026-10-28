@@ -1,0 +1,202 @@
+time_s,mode,current,voltage,temp,soc
+3.80,Nominal Mode,1.010,4.200,20.00,90.80
+4.43,Nominal Mode,1.010,4.200,20.10,91.60
+5.03,Nominal Mode,1.010,4.190,20.50,92.40
+5.63,Nominal Mode,1.010,4.190,20.60,93.10
+6.25,Nominal Mode,1.010,4.190,20.80,93.70
+6.85,Nominal Mode,1.010,4.190,21.00,94.30
+7.46,Nominal Mode,1.010,4.190,21.00,94.80
+8.06,Nominal Mode,1.010,4.190,21.10,95.30
+8.67,Nominal Mode,1.010,4.190,21.40,95.70
+9.28,Nominal Mode,1.010,4.190,21.50,96.10
+9.86,Nominal Mode,1.010,4.190,21.70,96.40
+10.48,Nominal Mode,1.010,4.190,21.80,96.80
+11.09,Nominal Mode,1.010,4.190,21.80,97.10
+11.68,Nominal Mode,1.010,4.190,21.70,97.30
+12.30,Nominal Mode,1.010,4.190,21.90,97.60
+12.91,Nominal Mode,1.010,4.180,22.00,97.80
+13.52,Nominal Mode,1.010,4.180,22.10,98.00
+14.13,Nominal Mode,1.010,4.180,22.10,98.20
+14.73,Nominal Mode,1.010,4.180,22.20,98.30
+15.35,Nominal Mode,1.010,4.180,22.10,98.50
+15.92,Nominal Mode,1.010,4.180,22.30,98.60
+16.56,Nominal Mode,1.010,4.180,22.40,98.80
+17.14,Nominal Mode,1.010,4.180,22.50,98.90
+17.77,Nominal Mode,1.010,4.180,22.50,99.00
+18.36,Nominal Mode,1.010,4.180,22.40,99.10
+18.97,Nominal Mode,1.010,4.180,22.30,99.10
+19.57,Nominal Mode,1.000,4.180,22.50,99.20
+20.18,Nominal Mode,1.000,4.180,22.40,99.30
+20.79,Nominal Mode,1.000,4.180,22.50,99.40
+21.41,Nominal Mode,1.000,4.180,22.50,99.40
+22.01,Nominal Mode,1.000,4.180,22.50,99.50
+22.61,Nominal Mode,1.000,4.180,22.40,99.50
+23.20,Nominal Mode,1.000,4.180,22.50,99.60
+23.81,Nominal Mode,1.000,4.180,22.60,99.60
+24.41,Nominal Mode,1.000,4.170,22.60,99.60
+25.01,Nominal Mode,1.000,4.180,22.60,99.70
+25.62,Nominal Mode,1.000,4.170,22.50,99.70
+26.23,Nominal Mode,1.000,4.170,22.70,99.70
+26.84,Nominal Mode,1.000,4.170,23.10,99.80
+27.44,Nominal Mode,1.000,4.170,23.10,99.80
+28.05,Nominal Mode,1.000,4.170,23.30,99.80
+28.66,Nominal Mode,1.000,4.170,23.10,99.80
+29.28,Nominal Mode,1.000,4.170,23.30,99.80
+29.89,Nominal Mode,1.000,4.170,23.30,99.80
+30.49,Nominal Mode,1.000,4.170,23.40,99.90
+31.10,Nominal Mode,1.000,4.170,23.30,99.90
+31.71,Nominal Mode,1.000,4.170,23.20,99.90
+32.32,Nominal Mode,1.010,4.170,23.10,99.90
+32.93,Nominal Mode,1.000,4.170,23.20,99.90
+33.53,Nominal Mode,1.000,4.170,23.20,99.90
+34.13,Nominal Mode,1.010,4.170,23.30,99.90
+34.75,Nominal Mode,1.010,4.170,23.20,99.90
+35.38,Nominal Mode,1.010,4.170,23.20,99.90
+35.97,Nominal Mode,1.010,4.170,23.10,99.90
+36.55,Nominal Mode,1.010,4.170,23.00,99.90
+37.17,Nominal Mode,1.010,4.170,23.20,99.90
+37.78,Nominal Mode,1.010,4.170,23.20,100.00
+38.38,Nominal Mode,1.010,4.170,23.30,100.00
+38.99,Nominal Mode,1.010,4.170,23.50,100.00
+39.68,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.170,23.40,100.00
+40.36,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.170,23.30,100.00
+41.03,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.170,23.20,100.00
+41.71,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.170,23.20,100.00
+42.37,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.170,23.10,100.00
+43.07,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.170,23.20,100.00
+43.75,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.170,23.20,100.00
+44.41,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.170,23.00,100.00
+45.07,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.170,23.00,100.00
+45.76,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.170,23.00,100.00
+46.45,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.170,23.20,100.00
+47.11,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.170,23.10,100.00
+47.80,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.170,23.20,100.00
+48.46,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.170,23.20,100.00
+49.14,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.170,23.10,100.00
+49.77,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.170,23.10,100.00
+50.48,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.170,23.00,100.00
+51.18,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.170,23.10,100.00
+51.84,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.170,23.00,100.00
+52.52,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.170,23.00,100.00
+53.18,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.170,23.00,100.00
+53.90,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.170,23.20,100.00
+54.56,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.170,23.10,100.00
+55.25,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.170,23.20,100.00
+55.89,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.170,23.20,100.00
+56.56,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.170,23.00,100.00
+57.25,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.170,23.10,100.00
+57.91,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,23.10,100.00
+58.60,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,23.20,100.00
+59.27,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,23.20,100.00
+59.95,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,23.00,100.00
+60.58,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,23.00,100.00
+61.29,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,22.90,100.00
+61.97,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,23.00,100.00
+62.65,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,23.00,100.00
+63.29,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,23.10,100.00
+64.02,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,23.20,100.00
+64.68,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,23.00,100.00
+65.35,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,23.00,100.00
+66.03,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,22.90,100.00
+66.73,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,23.00,100.00
+67.38,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,23.00,100.00
+68.03,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,23.20,100.00
+68.70,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,23.10,100.00
+69.41,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,23.00,100.00
+70.08,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,23.10,100.00
+70.72,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,22.90,100.00
+71.43,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,23.00,100.00
+72.11,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,22.90,100.00
+72.80,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,23.10,100.00
+73.44,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,23.10,100.00
+74.14,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,23.10,100.00
+74.82,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,23.20,100.00
+75.49,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.150,23.00,100.00
+76.16,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.150,23.10,100.00
+76.86,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,23.00,100.00
+77.50,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,23.10,100.00
+78.19,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,23.10,100.00
+78.89,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.150,23.20,100.00
+79.55,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,23.20,100.00
+80.22,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,23.10,100.00
+80.88,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,23.10,100.00
+81.57,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.150,23.00,100.00
+82.22,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.150,23.00,100.00
+82.92,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.150,23.00,100.00
+83.60,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.150,23.20,100.00
+84.26,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.160,23.10,100.00
+84.94,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.150,23.30,100.00
+85.63,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.150,23.30,100.00
+86.29,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.150,23.20,100.00
+86.96,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.150,23.10,100.00
+87.63,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.150,23.10,100.00
+88.32,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.150,23.20,100.00
+88.98,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.150,23.20,100.00
+89.66,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.150,23.20,100.00
+90.36,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.150,23.20,100.00
+91.03,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.150,23.10,100.00
+91.71,Degraded Mode Temperature Faulty Sensor # 1,1.010,4.150,23.10,100.00
+92.29,Nominal Mode,1.010,4.150,23.10,100.00
+92.91,Nominal Mode,1.010,4.150,23.00,100.00
+93.48,Nominal Mode,1.010,4.150,23.00,100.00
+94.08,Nominal Mode,1.010,4.150,23.10,100.00
+94.69,Nominal Mode,1.010,4.150,22.90,100.00
+95.30,Nominal Mode,1.010,4.160,22.90,100.00
+95.93,Nominal Mode,1.010,4.150,23.00,100.00
+96.51,Nominal Mode,1.010,4.150,23.00,100.00
+97.12,Nominal Mode,1.010,4.150,23.00,100.00
+97.73,Nominal Mode,1.010,4.150,23.00,100.00
+98.34,Nominal Mode,1.010,4.150,23.00,100.00
+98.94,Nominal Mode,1.010,4.150,23.00,100.00
+99.55,Nominal Mode,1.010,4.150,23.00,100.00
+100.17,Nominal Mode,1.010,4.150,23.00,100.00
+100.80,Nominal Mode,1.010,4.150,22.90,100.00
+101.38,Nominal Mode,1.010,4.150,23.00,100.00
+102.00,Nominal Mode,1.010,4.150,23.00,100.00
+102.61,Nominal Mode,1.010,4.150,22.90,100.00
+103.23,Nominal Mode,1.010,4.150,22.90,100.00
+103.85,Nominal Mode,1.010,4.150,22.90,100.00
+104.43,Nominal Mode,1.010,4.150,22.90,100.00
+105.04,Nominal Mode,1.010,4.150,22.90,100.00
+105.65,Nominal Mode,1.010,4.150,22.90,100.00
+106.26,Nominal Mode,1.010,4.150,23.00,100.00
+106.86,Nominal Mode,1.010,4.150,23.10,100.00
+107.46,Nominal Mode,1.010,4.150,23.10,100.00
+108.07,Nominal Mode,1.010,4.150,23.10,100.00
+108.68,Nominal Mode,1.010,4.150,23.20,100.00
+109.28,Nominal Mode,1.010,4.150,23.30,100.00
+109.90,Nominal Mode,1.010,4.150,23.40,100.00
+110.52,Nominal Mode,1.010,4.150,23.50,100.00
+111.12,Nominal Mode,1.010,4.150,23.60,100.00
+111.73,Nominal Mode,1.010,4.150,23.60,100.00
+112.35,Nominal Mode,1.010,4.150,23.60,100.00
+112.94,Nominal Mode,1.010,4.150,23.60,100.00
+113.54,Nominal Mode,1.010,4.150,23.80,100.00
+114.16,Nominal Mode,1.010,4.150,23.80,100.00
+114.77,Nominal Mode,1.010,4.150,23.90,100.00
+115.38,Nominal Mode,1.010,4.150,23.90,100.00
+115.98,Nominal Mode,1.010,4.150,23.70,100.00
+116.59,Nominal Mode,1.010,4.150,23.50,100.00
+117.19,Nominal Mode,1.010,4.150,23.30,100.00
+117.81,Nominal Mode,1.010,4.150,23.10,100.00
+118.40,Nominal Mode,1.010,4.150,23.00,100.00
+119.01,Nominal Mode,1.010,4.150,22.80,100.00
+119.61,Nominal Mode,1.010,4.150,22.70,100.00
+120.22,Nominal Mode,1.010,4.150,22.60,100.00
+120.84,Nominal Mode,1.010,4.150,22.50,100.00
+121.44,Nominal Mode,1.010,4.150,22.40,100.00
+122.07,Nominal Mode,1.010,4.150,22.30,100.00
+122.65,Nominal Mode,1.010,4.150,22.30,100.00
+123.26,Nominal Mode,1.010,4.150,22.40,100.00
+123.88,Nominal Mode,1.010,4.150,22.40,100.00
+124.47,Nominal Mode,1.010,4.150,22.40,100.00
+125.08,Nominal Mode,1.010,4.150,22.40,100.00
+125.70,Nominal Mode,1.010,4.150,22.40,100.00
+126.31,Nominal Mode,1.010,4.150,22.40,100.00
+126.91,Nominal Mode,1.010,4.150,22.40,100.00
+127.52,Nominal Mode,1.010,4.150,22.50,100.00
+128.13,Nominal Mode,1.010,4.150,22.60,100.00
+128.75,Nominal Mode,1.010,4.150,22.70,100.00
+129.35,Nominal Mode,1.010,4.150,22.70,100.00
+129.95,Nominal Mode,1.010,4.140,22.80,100.00
+130.54,Nominal Mode,1.010,4.150,22.80,100.00
