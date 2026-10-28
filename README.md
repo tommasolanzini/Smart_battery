@@ -47,9 +47,9 @@ Smart_battery/
 
 ### Requirements
 
-- Python 3.x with Jupyter <!-- TODO: add exact package list, e.g. numpy, pandas, scikit-learn, tensorflow -->
+- Python 3.x with Jupyter
 - Arduino IDE or PlatformIO
-- <!-- TODO: board used (e.g. Arduino Nano 33 BLE, ESP32, ...) -->
+- Arduino R4 WiFi
 
 ### Reproduce the models
 
@@ -66,17 +66,9 @@ jupyter notebook "training_explained (1).ipynb"
 2. Open a sketch from `Arduino Testing/` in the Arduino IDE.
 3. Select your board and port, then upload.
 
-
-## Roadmap
-
-- [ ] Document input features and dataset
-- [ ] Add results table and plots
-- [ ] Add a `requirements.txt`
-- [ ] Add a license
-
-
-<!-- TODO: choose a license (e.g. MIT) and add a LICENSE file -->
-
 ## Author
 
-**Tommaso Lanzini** – [@tommasolanzini](https://github.com/tommasolanzini)
+**Giacomo Bellumè**
+**Riccardo Granata**
+**Daniele Fagotti**
+**Tommaso Lanzini** 
